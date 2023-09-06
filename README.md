@@ -9,3 +9,5 @@ Liste d'expériences possibles (sans feu) :
 * [Découper des rubans de Möbius](experiences/mobius.md)
 * [Cage de Faraday pour téléphone](experiences/faraday.md)
 * [Éteindre des bougies avec du CO2](experiences/bougie_co2.md)
+* [L'hôtel de Hilbert](experiences/hilbert.md)
+
