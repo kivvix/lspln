@@ -4,10 +4,10 @@ Matériels :
 
 * [ ] choux rouge
 * [ ] des verres ou bechers
-* [ ] un soda (acide) [existe sur place]
-* [ ] de la javel (basique)
+* [x] un soda (acide) [existe sur place]
+* [x] de la javel (basique) [existe sur place]
 * [ ] du bicarbonate de soude (basique)
-* [ ] des bières (acide)
+* [ ] des bières (acide) [existe sur place]
 * [ ] jus de citron
 
 > **Préparation :** couper le choux rouge en gros morceaux, recouvrir d'eau, porter à ébullition, laisser frémir quelques minutes, récupérer l'eau de cuisson (froide).
