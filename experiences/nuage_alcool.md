@@ -4,7 +4,7 @@ Matériels :
 
 * [ ] une pompe à vélo avec embouts pour gonfler un ballon
 * [ ] une bouteille avec un bouchon qu'on peut percer
-* [ ] un peu d'alcool à 90°
+* [x] un peu d'alcool à 90°
 
 > **Préparations :** fixer avec de la glue l'embout dans le bouchon et prévoir de pouvoir pomper.
 
