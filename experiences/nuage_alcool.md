@@ -16,3 +16,5 @@ Expérience :
 4. On peut reboucher la bouteille et repomper
 5. On peut faire bruler le nuage d'alcool🔥
 
+> **Lien :** [vidéo de Merci la physique](https://www.youtube.com/watch?v=1NqWrWV29kQ)
+

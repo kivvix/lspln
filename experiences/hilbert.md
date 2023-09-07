@@ -2,7 +2,7 @@
 
 Matériels :
 
-* [ ] un tableau blanc (je crois que Romain en a un)
+* [x] un tableau blanc [Romain]
 * [ ] des feutres à tableau blanc
 
 > **Préparation :** RAS

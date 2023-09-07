@@ -2,7 +2,7 @@
 
 Matériels :
 
-* [ ] des ciseaux (sur place)
+* [x] des ciseaux (sur place)
 * [ ] des bandes de papier
 * [ ] du scotch (c'est plus simple qu'avec de la colle mais faut bien le positionner)
 
